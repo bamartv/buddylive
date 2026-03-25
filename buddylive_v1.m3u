@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-03-25 17:32:26
+# Last Updated: 2026-03-25 19:23:35
 #EXTINF:-1 group-title="NBA",03/25/26 07:10:00 PM EST = Atlanta Hawks @ Detroit Pistons
 https://v5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=VYfC-kZQ3VFRqzkfKC0QVQ&expires=1774480610&user_id=Q0pzS0IzMVBzUkdSZlpKb0dzaVZvejRSb3Y1a3Zjd3dQYkhLbjVSVw==
 #EXTINF:-1 group-title="NBA",03/25/26 07:10:00 PM EST = Chicago Bulls @ Philadelphia 76ers
