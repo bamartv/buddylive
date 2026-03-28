@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-03-28 19:05:20
+# Last Updated: 2026-03-28 19:50:40
 #EXTINF:-1 group-title="NHL",03/28/26 01:00:00 PM EST = Florida Panthers @ New York Islanders
 https://e2.thetvapp.to/hls/NHL03/tracks-v1a1/mono.m3u8?token=hTJhcwztr2hdCVLEjaZpew&expires=1774738216&user_id=bTBFWVRNajYybzNlcTR6MGdGdEFPSVpHR0tQQnNPZzBVb0N5Y1hUSg==
 #EXTINF:-1 group-title="NHL",03/28/26 01:00:00 PM EST = Ottawa Senators @ Tampa Bay Lightning
