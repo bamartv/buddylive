@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-04-05 19:54:44
+# Last Updated: 2026-04-05 20:56:33
 #EXTINF:-1 group-title="NHL",04/05/26 01:00:00 PM EST = Minnesota vs Detroit @ Apr 5 1:00 PM
 https://v13.thetvapp.to/hls/nhl01/tracks-v1a1/mono.m3u8?token=HqofNdM_G2WnaRccLCy67Q&expires=1775429529&user_id=a2NjQXl3dTBkMk5jeEx6OFRtOXllOXhHVEtOT0N6akpkRzNmMGlIVg==
 #EXTINF:-1 group-title="NHL",04/05/26 02:30:00 PM EST = Florida Panthers vs Pittsburgh Penguins @ Apr 5 2:30 PM
