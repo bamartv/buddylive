@@ -67,6 +67,13 @@ Link: https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
 
 ---------------------------------------------
 
+##  📺 LG TV (Playlist & EPG)
+
+⭐M3U: https://raw.githubusercontent.com/BuddyChewChew/lg-playlist-generator/refs/heads/main/lg_channels_us.m3u
+
+---------------------------------------------
+
+
 ##  📺 (SPORTS)
 
 ## :new: LIVE EVENTS (SPORTS)
