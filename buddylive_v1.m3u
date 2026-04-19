@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-04-19 07:52:07
+# Last Updated: 2026-04-19 09:11:59
 #EXTINF:-1 group-title="NBA",04/18/26 01:00:00 PM EST = Toronto Raptors vs Cleveland Cavaliers @ Apr 18 1:00 PM
 https://v2.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=VjPYPTqrccLL4RYR82i9mg&expires=1776600410&user_id=VXlwT08zbk94QjJqeXR1TTZPMDZycEZ5cDNWN1NwdEpvalZNTHNxVA==
 #EXTINF:-1 group-title="NBA",04/18/26 03:30:00 PM EST = Minnesota Timberwolves vs Denver Nuggets @ Apr 18 3:30 PM
