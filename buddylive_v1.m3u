@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-04-20 09:23:26
+# Last Updated: 2026-04-20 11:02:13
 #EXTINF:-1 group-title="NBA",04/19/26 01:00:00 PM EST = Philadelphia 76ers vs Boston Celtics @ Apr 19 1:00 PM
 https://v12.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=RHXyOJkOL_9ikjGeZZJxOA&expires=1776688002&user_id=Mm10czZXMzVlU3RIYTZzaHdWMzFHVkJyMndaTU50czVQWXZKSGlsRQ==
 #EXTINF:-1 group-title="NBA",04/19/26 03:30:00 PM EST = Phoenix Suns vs Oklahoma City Thunder @ Apr 19 3:30 PM
