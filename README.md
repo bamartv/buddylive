@@ -73,6 +73,12 @@ Link: https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
 
 ---------------------------------------------
 
+## :new: 📺 TCLtv+ (Playlist & EPG)
+
+⭐M3U: https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/heads/main/tcl.m3u8
+---------------------------------------------
+
+
 
 ##  📺 (SPORTS)
 
